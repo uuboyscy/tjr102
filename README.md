@@ -2,7 +2,7 @@
 
 # Notes
 ## 20250629 Docker
-Use "-y" to avoid pending process when `apt-get install`
+Use "-y" to avoid pending process when `apt-get install` \
 example: `apt-get install -y curl`
 
 ### Build a container
@@ -27,6 +27,6 @@ example: `apt-get install -y curl`
   - `docker ps -a` to show all existing containers
 
 # Resources
-[Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
-[Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
-[Airflow](https://docs.uuboyscy.dev/docs/Orchestration/AirFlow/)
+- [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
+- [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
+- [Airflow](https://docs.uuboyscy.dev/docs/Orchestration/AirFlow/)
