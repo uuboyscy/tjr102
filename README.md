@@ -26,6 +26,9 @@ example: `apt-get install -y curl`
   - `docker ps` to show running container
   - `docker ps -a` to show all existing containers
 
+### Note from transcription
+[20250629.md](note/20250629.md)
+
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
 - [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
