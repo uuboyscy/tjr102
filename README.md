@@ -29,6 +29,13 @@ example: `apt-get install -y curl`
 ### Note from transcription
 [20250629.md](note/20250629.md)
 
+## 20250703 Docker
+[20250703_morning_docker.md](note/20250703_morning_docker.md)
+
+## 20250703 Data Pipeline
+[20250703_afternoon_datapipeline.md](note/20250703_afternoon_datapipeline.md)
+[20250703_night_datapipeline.md](note/20250703_night_datapipeline.md) 
+
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
 - [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
