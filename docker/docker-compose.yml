@@ -18,7 +18,7 @@ services:
       - flask_web_server
     restart: always
     environment:
-      - NGROK_AUTHTOKEN=2oupP9KI6jAs8lnVn68XXA5FA0S_2e5VLUSwsAJzBB9XynZRM
+      - NGROK_AUTHTOKEN=2oupP9KI6j2e5VLUSwsAJ
     ports:
       - "54088:4040"
     links:
