@@ -36,6 +36,14 @@ example: `apt-get install -y curl`
 [20250703_afternoon_datapipeline.md](note/20250703_afternoon_datapipeline.md)
 [20250703_night_datapipeline.md](note/20250703_night_datapipeline.md) 
 
+## 20250712 Data Pipeline
+1. [Create DB and table](https://github.com/uuboyscy/basic_python_course/blob/master/part15_dbConnection/01_executeSQL_INSERT.ipynb)
+2. Install cryptography
+   1. `poetry add cryptography`
+3. If password is incorrect
+   1. `OperationalError: (1045, "Access denied for user 'root'@'192.168.65.1' (using password: YES)")`
+4. `OperationalError: (1049, "Unknown database 'testdb'")`
+
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
 - [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
