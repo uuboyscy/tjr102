@@ -48,6 +48,30 @@ example: `apt-get install -y curl`
 [20250712_morning_datapipeline.md](note/20250712_morning_datapipeline.md)
 [20250712_afternoon_datapipeline.md](note/20250712_afternoon_datapipeline.md)
 
+## 20250719 GCP
+- Generate SSH key pair
+   ```
+   ssh-keygen -t ed25519 -f tjr102-key -C "test-gcp-user"
+   ```
+- Copy public key to GCP VM instance
+  - Create a ~/.ssh/authorized_keys file if it does not exist
+  - Copy the content of `tjr102-key.pub` to GCP VM instance metadata
+- Login to GCP VM instance
+   ```
+   ssh -i tjr102-key test-gcp-user@<GCP VM instance external IP>
+   ```
+
+## 20250719 Data Pipeline Airflow
+
+### Deploy Airflow on GCP VM
+
+- [Install Docker](https://docs.docker.com/engine/install/ubuntu/)
+- Add docker group
+  ```
+  sudo groupadd docker
+  sudo usermod -aG docker $USER
+  ```
+
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
 - [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
