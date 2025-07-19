@@ -65,7 +65,7 @@ example: `apt-get install -y curl`
 
 ### Deploy Airflow on GCP VM
 
-- [Install Docker](https://docs.docker.com/engine/install/ubuntu/)
+- [Install Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 - Add docker group
   ```
   sudo groupadd docker
