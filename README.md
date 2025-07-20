@@ -45,8 +45,8 @@ example: `apt-get install -y curl`
 4. `OperationalError: (1049, "Unknown database 'testdb'")`
 
 ### Note from transcription
-[20250712_morning_datapipeline.md](note/20250712_morning_datapipeline.md)
-[20250712_afternoon_datapipeline.md](note/20250712_afternoon_datapipeline.md)
+- [20250712_morning_datapipeline.md](note/20250712_morning_datapipeline.md)
+- [20250712_afternoon_datapipeline.md](note/20250712_afternoon_datapipeline.md)
 
 ## 20250719 GCP
 - Generate SSH key pair
@@ -61,6 +61,10 @@ example: `apt-get install -y curl`
    ssh -i tjr102-key test-gcp-user@<GCP VM instance external IP>
    ```
 
+### Note from transcription
+- [20250719_morning_GCP.md](note/20250719_morning_GCP.md)
+
+
 ## 20250719 Data Pipeline Airflow
 
 ### Deploy Airflow on GCP VM
@@ -71,6 +75,10 @@ example: `apt-get install -y curl`
   sudo groupadd docker
   sudo usermod -aG docker $USER
   ```
+
+### Note from transcription
+- [20250719_afternoon_datapipeline.md](note/20250719_afternoon_datapipeline.md)
+
 
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
