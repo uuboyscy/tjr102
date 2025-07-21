@@ -79,6 +79,19 @@ example: `apt-get install -y curl`
 ### Note from transcription
 - [20250719_afternoon_datapipeline.md](note/20250719_afternoon_datapipeline.md)
 
+## 20250720 Data Pipeline
+
+### Note from transcription
+- [20250720_morning_datapipeline.md](note/20250720_morning_datapipeline.md)
+
+## 20250720 GCP
+- gsutil rsync
+  - `gsutil rsync -r -d testrsync gs://tjr102-demo-allen/testrsync/`
+- Mount GCS with gsfuse
+  - https://cloud.google.com/storage/docs/cloud-storage-fuse/overview#use-cases
+
+### Note from transcription
+- [20250720_afternoon_GCP.md](note/20250720_afternoon_GCP.md)
 
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
