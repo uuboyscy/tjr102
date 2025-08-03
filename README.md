@@ -107,3 +107,4 @@ example: `apt-get install -y curl`
 - [Airflow](https://docs.uuboyscy.dev/docs/Orchestration/AirFlow/)
 - [Flask Sample code](https://github.com/uuboyscy/flask_course)
 - [PyMySQL](https://github.com/uuboyscy/basic_python_course/tree/master/part15_dbConnection)
+- [BigQuery Official Documentation](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries)
