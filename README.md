@@ -93,6 +93,14 @@ example: `apt-get install -y curl`
 ### Note from transcription
 - [20250720_afternoon_GCP.md](note/20250720_afternoon_GCP.md)
 
+
+## 20250803 GCP
+### Query external GoogleSheets table on BigQuery
+1. Share the GoogleSheets with the service account email
+2. Enable GoogleSheets API in GCP project
+3. Configure credential scope in Python code
+
+
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
 - [Pandas](https://docs.uuboyscy.dev/docs/category/pandas-tutorial)
