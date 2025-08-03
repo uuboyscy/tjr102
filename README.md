@@ -100,6 +100,8 @@ example: `apt-get install -y curl`
 2. Enable GoogleSheets API in GCP project
 3. Configure credential scope in Python code
 
+### Note from transcription
+- [20250803_morning_gcp.md](note/20250803_morning_gcp.md)
 
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
