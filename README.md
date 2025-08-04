@@ -102,6 +102,7 @@ example: `apt-get install -y curl`
 
 ### Note from transcription
 - [20250803_morning_gcp.md](note/20250803_morning_gcp.md)
+- [20250803_afternoon_gcp.md](note/20250803_afternoon_gcp.md)
 
 # Resources
 - [Docker](https://docs.uuboyscy.dev/docs/category/docker-tutorial)
